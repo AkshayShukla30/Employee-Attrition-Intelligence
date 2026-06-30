@@ -1,0 +1,1 @@
+{"best_model": "Logistic Regression", "trained_at": "2026-06-30 12:27:36", "training_seconds": 5.95, "n_train": 1176, "n_test": 294, "xgboost_available": true}
