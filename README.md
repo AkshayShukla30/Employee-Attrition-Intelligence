@@ -12,7 +12,7 @@ An end-to-end Machine Learning application that predicts employee attrition, pro
 
 ## 🌐 Live Demo
 
-🔗 **Live Application:** https://your-streamlit-app-url.streamlit.app
+🔗 **Live Application:** https://employee-attrition--ai.streamlit.app/
 
 💻 **GitHub Repository:** https://github.com/AkshayShukla30/Employee-Attrition-Intelligence
 
